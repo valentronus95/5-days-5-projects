@@ -13,3 +13,8 @@ ____
 
 ![](https://fv2-1.failiem.lv/thumb_show.php?i=qars79gb9&view)
 ____
+
+## :white_check_mark: mini game --> [Demo](https://jsfiddle.net/valentronus95/hnLu68cv/1/)
+
+![](https://github.com/valentronus95/5-days-5-projects/blob/main/mini%20game/Desktop.png?raw=true)
+____
